@@ -10,10 +10,10 @@ Settings:
 
 4- enter settings:
 
-◄ Left=a
+◄ Left=r
 
-▲Up=g
+▲Up=d
 
-►Right=r
+►Right=a
 
-▼Down=d
+▼Down=g
